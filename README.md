@@ -1,2 +1,1 @@
-# karirku
-Memulai sebuah karir yang saya impikan
+# code_snippets
